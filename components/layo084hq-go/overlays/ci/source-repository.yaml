@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: layo084hq-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/layo084hq-go
